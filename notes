@@ -1,0 +1,7 @@
+
+1) if a component owns a state only that component should modify it.
+2) a componet receives a prop and assigns it to a local state, it happens only once while it is created. if prop is modified it does not reassign the state.
+
+Refer:
+Chapter in programming in mosh : Composing components, chapter: 9, 10, 11.
+
